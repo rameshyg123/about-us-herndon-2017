@@ -1,2 +1,3 @@
 susy
-adding interesting stuff
+favorite animal: dog
+favorite color: red
