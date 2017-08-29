@@ -1,1 +1,3 @@
 susy
+favorite animal: dog
+favorite color: red
